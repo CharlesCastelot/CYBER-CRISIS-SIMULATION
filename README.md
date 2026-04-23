@@ -6,8 +6,8 @@ In this simulation, you will work in teams alongside each other to piece togethe
 
 # HOW TO START:
 
-Click on the green "Code" and download it as Zip.
-Once downloaded, Just extract the folder anywhere and I will be ready to start!
+Click on the green "Code" then "Download ZIP".
+Once downloaded, just extract the folder anywhere and I will be ready to start!
 The files orders for this challenge is:
 1) Web_Server_logs.txt
 2) Security_Event_Log.evtx
